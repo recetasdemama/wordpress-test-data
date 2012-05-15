@@ -1905,16 +1905,16 @@ None-aligned image with no caption, and text before and after. <img src="http://
 <!--nextpage-->
 <h2>Image Alignment Tests: Captioned Images</h2>
 <h3 id="centered-image-with-caption">Center-align with Caption</h3>
-Center-aligned image with caption, and text before and after. [caption id="attachment_544" align="aligncenter" width="300" caption="A picture is worth a thousand words"]<a href="http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg?w=300" alt="" title="boat" width="300" height="198" class="size-medium wp-image-544" /></a>[/caption] Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed odio nibh, tincidunt adipiscing, pretium nec, tincidunt id, enim. Fusce scelerisque nunc vitae nisl. Quisque quis urna in velit dictum pellentesque. Vivamus a quam. Curabitur eu tortor id turpis tristique adipiscing. Morbi blandit. Maecenas vel est. Nunc aliquam, orci at accumsan commodo, libero nibh euismod augue, a ullamcorper velit dui et purus. Aenean volutpat, ipsum ac imperdiet fermentum, dui dui suscipit arcu, vitae dictum purus diam ac ligula.
+Center-aligned image with caption, and text before and after. [caption id="attachment_544" align="aligncenter" width="300" caption="A picture is worth a thousand words"]<a href="http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg?w=300" alt="" title="boat" width="300" height="198" class="size-medium wp-image-544" /></a>[/caption] Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed odio nibh, tincidunt adipiscing, pretium nec, tincidunt id, enim. Fusce scelerisque nunc vitae nisl. Quisque quis urna in velit dictum pellentesque. Vivamus a quam. Curabitur eu tortor id turpis tristique adipiscing. Morbi blandit. Maecenas vel est. Nunc aliquam, orci at accumsan commodo, libero nibh euismod augue, a ullamcorper velit dui et purus. Aenean volutpat, ipsum ac imperdiet fermentum, dui dui suscipit arcu, vitae dictum purus diam ac ligula.
 
 <h3 id="left-align-no-caption">Left-align with caption</h3>
-Left-aligned image with caption, and text before and after. [caption id="attachment_544" align="alignleft" width="300" caption="A picture is worth a thousand words"]<a href="http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg?w=300" alt="" title="boat" width="300" height="198" class="size-medium wp-image-544" /></a>[/caption] Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed odio nibh, tincidunt adipiscing, pretium nec, tincidunt id, enim. Fusce scelerisque nunc vitae nisl. Quisque quis urna in velit dictum pellentesque. Vivamus a quam. Curabitur eu tortor id turpis tristique adipiscing. Morbi blandit. Maecenas vel est. Nunc aliquam, orci at accumsan commodo, libero nibh euismod augue, a ullamcorper velit dui et purus. Aenean volutpat, ipsum ac imperdiet fermentum, dui dui suscipit arcu, vitae dictum purus diam ac ligula.
+Left-aligned image with caption, and text before and after. [caption id="attachment_544" align="alignleft" width="300" caption="A picture is worth a thousand words"]<a href="http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg?w=300" alt="" title="boat" width="300" height="198" class="size-medium wp-image-544" /></a>[/caption] Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed odio nibh, tincidunt adipiscing, pretium nec, tincidunt id, enim. Fusce scelerisque nunc vitae nisl. Quisque quis urna in velit dictum pellentesque. Vivamus a quam. Curabitur eu tortor id turpis tristique adipiscing. Morbi blandit. Maecenas vel est. Nunc aliquam, orci at accumsan commodo, libero nibh euismod augue, a ullamcorper velit dui et purus. Aenean volutpat, ipsum ac imperdiet fermentum, dui dui suscipit arcu, vitae dictum purus diam ac ligula.
 
 <h3 id="right-align-no-caption">Right-align with caption</h3>
-Right-aligned image with caption, and text before and after. [caption id="attachment_544" align="alignright" width="300" caption="A picture is worth a thousand words"]<a href="http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg?w=300" alt="" title="boat" width="300" height="198" class="size-medium wp-image-544" /></a>[/caption] Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed odio nibh, tincidunt adipiscing, pretium nec, tincidunt id, enim. Fusce scelerisque nunc vitae nisl. Quisque quis urna in velit dictum pellentesque. Vivamus a quam. Curabitur eu tortor id turpis tristique adipiscing. Morbi blandit. Maecenas vel est. Nunc aliquam, orci at accumsan commodo, libero nibh euismod augue, a ullamcorper velit dui et purus. Aenean volutpat, ipsum ac imperdiet fermentum, dui dui suscipit arcu, vitae dictum purus diam ac ligula.
+Right-aligned image with caption, and text before and after. [caption id="attachment_544" align="alignright" width="300" caption="A picture is worth a thousand words"]<a href="http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg?w=300" alt="" title="boat" width="300" height="198" class="size-medium wp-image-544" /></a>[/caption] Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed odio nibh, tincidunt adipiscing, pretium nec, tincidunt id, enim. Fusce scelerisque nunc vitae nisl. Quisque quis urna in velit dictum pellentesque. Vivamus a quam. Curabitur eu tortor id turpis tristique adipiscing. Morbi blandit. Maecenas vel est. Nunc aliquam, orci at accumsan commodo, libero nibh euismod augue, a ullamcorper velit dui et purus. Aenean volutpat, ipsum ac imperdiet fermentum, dui dui suscipit arcu, vitae dictum purus diam ac ligula.
 
 <h3 id="no-alignment-no-caption">No alignment, with caption</h3>
-None-aligned image with caption, and text before and after. [caption id="attachment_544" align="alignnone" width="300" caption="A picture is worth a thousand words"]<a href="http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg?w=300" alt="" title="boat" width="300" height="198" class="size-medium wp-image-544" /></a>[/caption] Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed odio nibh, tincidunt adipiscing, pretium nec, tincidunt id, enim. Fusce scelerisque nunc vitae nisl. Quisque quis urna in velit dictum pellentesque. Vivamus a quam. Curabitur eu tortor id turpis tristique adipiscing. Morbi blandit. Maecenas vel est. Nunc aliquam, orci at accumsan commodo, libero nibh euismod augue, a ullamcorper velit dui et purus. Aenean volutpat, ipsum ac imperdiet fermentum, dui dui suscipit arcu, vitae dictum purus diam ac ligula.
+None-aligned image with caption, and text before and after. [caption id="attachment_544" align="alignnone" width="300" caption="A picture is worth a thousand words"]<a href="http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg?w=300" alt="" title="boat" width="300" height="198" class="size-medium wp-image-544" /></a>[/caption] Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed odio nibh, tincidunt adipiscing, pretium nec, tincidunt id, enim. Fusce scelerisque nunc vitae nisl. Quisque quis urna in velit dictum pellentesque. Vivamus a quam. Curabitur eu tortor id turpis tristique adipiscing. Morbi blandit. Maecenas vel est. Nunc aliquam, orci at accumsan commodo, libero nibh euismod augue, a ullamcorper velit dui et purus. Aenean volutpat, ipsum ac imperdiet fermentum, dui dui suscipit arcu, vitae dictum purus diam ac ligula.
 
 <!--nextpage-->
 <h2>Other Image Tests</h2>
@@ -2269,7 +2269,7 @@ Occasionally in her travels through her children's minds Mrs. Darling found thin
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/</guid>
 		<description></description>
 		<content:encoded><![CDATA[The last item in this page's content is a floated image. Make sure any elements after it are clearing properly.
-<a href="http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg?w=150" alt="" title="boat" width="150" height="99" class="alignleft size-thumbnail wp-image-544" /></a>]]></content:encoded>
+<a href="http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg?w=150" alt="" title="boat" width="150" height="99" class="alignleft size-thumbnail wp-image-544" /></a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>501</wp:post_id>
 		<wp:post_date>2010-08-01 09:42:26</wp:post_date>
@@ -2422,7 +2422,7 @@ Occasionally in her travels through her children's minds Mrs. Darling found thin
 		<pubDate>Tue, 03 Aug 2010 20:52:35 +0000</pubDate>
 		<dc:creator><![CDATA[Ian Stewart]]></dc:creator>
 
-		<guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg</guid>
+		<guid isPermaLink="false">http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[A picture is worth a thousand words]]></excerpt:encoded>
@@ -2438,14 +2438,14 @@ Occasionally in her travels through her children's minds Mrs. Darling found thin
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-				<wp:attachment_url>http://wpthemetestdata.files.wordpress.com/2008/09/boat.jpg</wp:attachment_url>
+				<wp:attachment_url>http://wpthemetestdata.files.wordpress.com/2011/01/boat.jpg</wp:attachment_url>
 								<wp:postmeta>
 		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/7af/5933695/files/2008/09/boat.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/7af/5933695/files/2011/01/boat.jpg]]></wp:meta_value>
 		</wp:postmeta>
 				<wp:postmeta>
 		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"435";s:6:"height";s:3:"288";s:14:"hwstring_small";s:23:"height='84' width='128'";s:4:"file";s:79:"/home/wpcom/public_html/wp-content/blogs.dir/7af/5933695/files/2008/09/boat.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"435";s:6:"height";s:3:"288";s:14:"hwstring_small";s:23:"height='84' width='128'";s:4:"file";s:79:"/home/wpcom/public_html/wp-content/blogs.dir/7af/5933695/files/2011/01/boat.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 		<item>
