@@ -1,0 +1,23 @@
+h1. Wordpress Theme Testing Process
+
+WordPress Themes are files that work together to create the design and functionality of a WordPress site.
+
+The "Theme testing process":http://codex.wordpress.org/Theme_Development#Theme_Testing_Process includes a step where you should import this WordPress export (WXR) file and check all pages and posts.
+
+h2. Usage
+
+# Install the WordPress importer plugin from http://wordpress.org/extend/plugins/wordpress-importer/
+# Log into that blog as an administrator.
+# Go to Tools:Import in the blog's admin panels.
+# Choose "WordPress" from the list.
+# Upload this file using the form provided on that page.
+# You will first be asked to map the authors in this export file to users on the blog. For each author, you may choose to map to an existing user on the blog or to create a new user.
+# WordPress will then import each of the posts, comments, and categories contained in this file into your blog
+
+h2. Credit
+
+The original work was done by the "WordPress Theme Review Team":http://codex.wordpress.org/Theme_Development
+
+The @test-data.xml@ file has been ported from https://wpcom-themes.svn.automattic.com/demo/test-data.2011-01-17.xml.
+
+I've fixed some resource links and published a new version at http://demo.rdm.staging.es that you may use with the file @demo.rdm.staging.es.xml@
